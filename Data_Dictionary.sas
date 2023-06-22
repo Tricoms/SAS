@@ -629,8 +629,8 @@ options nosymbolgen;
 
 %data_specs 
 (
-           LIBN=AGG8797,
-           OUT='C:\Users\dacrow\OneDrive - SAS\Documents\testingCONDENSED.xlsx',
+           LIBN=STG3709,
+           OUT='D:\data\Git\SAS_Customer\STG3709_condensed.xlsx',
            INDEX=5,
            CAT_THRESHOLD=10,
            WHERE=,
